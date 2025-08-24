@@ -1,4 +1,4 @@
-Tic Tac Toe - C Game
+#Tic Tac Toe - C Game
 <h2> Hey there! I'm Dheeraj <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2> <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/> <h3> 🎮 About Project </h3>
 
 🔭   A C language based Tic Tac Toe game.
